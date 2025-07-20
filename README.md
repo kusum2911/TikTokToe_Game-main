@@ -2,6 +2,15 @@
 
 A simple web-based *Tic-Tac-Toe* game built using HTML, CSS, and JavaScript. This game allows two players to take turns and play on the same device.
 
+---
+## 📷 Preview
+
+
+
+https://github.com/user-attachments/assets/5988c6df-0f94-4172-bce0-92881f8d64d0
+
+---
+
 ## 🧩 Features
 
 - Classic 3x3 Tic-Tac-Toe game
